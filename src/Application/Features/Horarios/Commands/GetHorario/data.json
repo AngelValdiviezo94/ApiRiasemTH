@@ -1,0 +1,281 @@
+[
+  {
+    "fecha": "2022-08-01",
+    "marcacionEntrada": "8:08 AM",
+    "marcacionSalida": "5:10 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "CN",
+    "desResEvaluacion": "Unsp intracranial injury w/o loss of consciousness, sequela"
+  },
+  {
+    "fecha": "2022-08-02",
+    "marcacionEntrada": "8:06 AM",
+    "marcacionSalida": "5:01 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "BD",
+    "desResEvaluacion": "Type 1 diabetes mellitus with diabetic mononeuropathy"
+  },
+  {
+    "fecha": "2022-08-03",
+    "marcacionEntrada": "7:51 AM",
+    "marcacionSalida": "5:07 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "ID",
+    "desResEvaluacion": "Nondisp segmental fracture of shaft of right fibula, init"
+  },
+  {
+    "fecha": "2022-08-04",
+    "marcacionEntrada": "8:06 AM",
+    "marcacionSalida": "5:12 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "FI",
+    "desResEvaluacion": "Sltr-haris Type IV physeal fx upper end of unsp tibia, init"
+  },
+  {
+    "fecha": "2022-08-05",
+    "marcacionEntrada": "7:56 AM",
+    "marcacionSalida": "5:14 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "MG",
+    "desResEvaluacion": "Disorders of unspecified acoustic nerve"
+  },
+  {
+    "fecha": "2022-08-06",
+    "marcacionEntrada": "8:01 AM",
+    "marcacionSalida": "5:14 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "MX",
+    "desResEvaluacion": "Pedl cyc driver inj pick-up truck, pk-up/van nontraf, init"
+  },
+  {
+    "fecha": "2022-08-07",
+    "marcacionEntrada": "8:08 AM",
+    "marcacionSalida": "5:07 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "CN",
+    "desResEvaluacion": "Occup of pk-up/van inj pk-up truck, pk-up/van nontraf, init"
+  },
+  {
+    "fecha": "2022-08-08",
+    "marcacionEntrada": "8:02 AM",
+    "marcacionSalida": "5:07 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "RU",
+    "desResEvaluacion": "War op involving fragments from weapons, milt, sequela"
+  },
+  {
+    "fecha": "2022-08-09",
+    "marcacionEntrada": "8:07 AM",
+    "marcacionSalida": "5:03 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "PL",
+    "desResEvaluacion": "Displ commnt fx shaft of l tibia, 7thR"
+  },
+  {
+    "fecha": "2022-08-10",
+    "marcacionEntrada": "8:06 AM",
+    "marcacionSalida": "5:00 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "CN",
+    "desResEvaluacion": "Complete traumatic amp at level betw left hip and knee, init"
+  },
+  {
+    "fecha": "2022-08-11",
+    "marcacionEntrada": "7:55 AM",
+    "marcacionSalida": "5:10 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "ID",
+    "desResEvaluacion": "Poisoning by antimycobac drugs, accidental, subs"
+  },
+  {
+    "fecha": "2022-08-12",
+    "marcacionEntrada": "8:04 AM",
+    "marcacionSalida": "5:11 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "PH",
+    "desResEvaluacion": "Nondisp fx of medial phalanx of left middle finger"
+  },
+  {
+    "fecha": "2022-08-13",
+    "marcacionEntrada": "7:51 AM",
+    "marcacionSalida": "5:03 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "CN",
+    "desResEvaluacion": "Superficial foreign body of right front wall of thorax, init"
+  },
+  {
+    "fecha": "2022-08-14",
+    "marcacionEntrada": "8:08 AM",
+    "marcacionSalida": "5:09 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "GR",
+    "desResEvaluacion": "Other benign neoplasms of uterus"
+  },
+  {
+    "fecha": "2022-08-15",
+    "marcacionEntrada": "7:58 AM",
+    "marcacionSalida": "5:14 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "CN",
+    "desResEvaluacion": "Congenital absence, atresia and stenosis of ileum"
+  },
+  {
+    "fecha": "2022-08-16",
+    "marcacionEntrada": "8:06 AM",
+    "marcacionSalida": "5:01 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "AR",
+    "desResEvaluacion": "Herpesviral encephalitis"
+  },
+  {
+    "fecha": "2022-08-17",
+    "marcacionEntrada": "8:06 AM",
+    "marcacionSalida": "5:14 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "JP",
+    "desResEvaluacion": "Unsp fx upr end l tibia, subs for opn fx type I/2 w malunion"
+  },
+  {
+    "fecha": "2022-08-18",
+    "marcacionEntrada": "7:54 AM",
+    "marcacionSalida": "5:11 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "NL",
+    "desResEvaluacion": "Toxic effect of fusel oil, accidental (unintentional), init"
+  },
+  {
+    "fecha": "2022-08-19",
+    "marcacionEntrada": "7:54 AM",
+    "marcacionSalida": "5:13 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "CN",
+    "desResEvaluacion": "Relapsing fever, unspecified"
+  },
+  {
+    "fecha": "2022-08-20",
+    "marcacionEntrada": "7:57 AM",
+    "marcacionSalida": "5:06 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "PT",
+    "desResEvaluacion": "Mechanical loosening of internal prosthetic joint"
+  },
+  {
+    "fecha": "2022-08-21",
+    "marcacionEntrada": "8:04 AM",
+    "marcacionSalida": "5:03 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "PT",
+    "desResEvaluacion": "Pneumococcal arthritis, left ankle and foot"
+  },
+  {
+    "fecha": "2022-08-22",
+    "marcacionEntrada": "7:57 AM",
+    "marcacionSalida": "5:07 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "BR",
+    "desResEvaluacion": "Inj unsp musc/fasc/tend at forearm level, left arm, subs"
+  },
+  {
+    "fecha": "2022-08-23",
+    "marcacionEntrada": "8:08 AM",
+    "marcacionSalida": "5:02 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "CN",
+    "desResEvaluacion": "Unstable burst fx T11-T12 vertebra, subs for fx w routn heal"
+  },
+  {
+    "fecha": "2022-08-24",
+    "marcacionEntrada": "8:01 AM",
+    "marcacionSalida": "5:10 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "IE",
+    "desResEvaluacion": "Oth physl fx lower end of unsp femur, subs for fx w malunion"
+  },
+  {
+    "fecha": "2022-08-25",
+    "marcacionEntrada": "7:54 AM",
+    "marcacionSalida": "5:08 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "SE",
+    "desResEvaluacion": "Postprocedural septic shock, subsequent encounter"
+  },
+  {
+    "fecha": "2022-08-26",
+    "marcacionEntrada": "8:07 AM",
+    "marcacionSalida": "5:11 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "PH",
+    "desResEvaluacion": "Unsp traum nondisp spondylolysis of 5th cervcal vert, 7thD"
+  },
+  {
+    "fecha": "2022-08-27",
+    "marcacionEntrada": "8:06 AM",
+    "marcacionSalida": "5:01 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "ID",
+    "desResEvaluacion": "Unsp fracture of left wrist and hand, subs for fx w malunion"
+  },
+  {
+    "fecha": "2022-08-28",
+    "marcacionEntrada": "7:59 AM",
+    "marcacionSalida": "5:13 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "CN",
+    "desResEvaluacion": "Pressure ulcer of head"
+  },
+  {
+    "fecha": "2022-08-29",
+    "marcacionEntrada": "7:52 AM",
+    "marcacionSalida": "5:08 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "CN",
+    "desResEvaluacion": "Maternal care for oth isoimmun, unsp trimester, fetus 2"
+  },
+  {
+    "fecha": "2022-08-30",
+    "marcacionEntrada": "7:51 AM",
+    "marcacionSalida": "5:05 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "CN",
+    "desResEvaluacion": "Corros first deg mult left fingers (nail), not inc thumb"
+  },
+  {
+    "fecha": "2022-08-31",
+    "marcacionEntrada": "8:05 AM",
+    "marcacionSalida": "5:08 PM",
+    "turnoEntrada": "8:00 AM",
+    "turnoSalida": "5:00 PM",
+    "codResEvaluacion": "CN",
+    "desResEvaluacion": "Milt op involving rubber bullets, civilian, sequela"
+  }
+]
